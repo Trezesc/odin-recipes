@@ -1,0 +1,35 @@
+.desc {
+    color: rgb(8, 101, 124);
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.lasa {
+    color: brown;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+.imglas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+
+.link-recipe {
+    background-color: rgba(30, 30, 172, 0.747);
+    color: white;
+    text-decoration-line: none;
+    font-size: 30px;
+}
+
+.align-recipe {
+    text-align: center;
+}
